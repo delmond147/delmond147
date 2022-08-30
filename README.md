@@ -1,16 +1,23 @@
-### Hi there 👋
+![](assets/Bottom_up.svg)
 
-<!--
-**delmond147/delmond147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+</p>
 
-Here are some ideas to get you started:
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Delmond+Bongha;+I+am+a+full+stack+developer;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;+JavaScript+Developer+;+Crossplatform+Developer+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
+<!--   my-kaggle -->    
+### My achievements on [kaggle](https://www.kaggle.com/delmondbongha):
+
+!
