@@ -13,7 +13,7 @@
 
 <!--   my-header-img -->
 
-![](./src/header_.jpeg)
+![](./src/header_.png)
 <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->
