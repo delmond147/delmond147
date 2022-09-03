@@ -4,11 +4,6 @@
 <p align="center">
     <a href="https://github.com/delmond147/delmond"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
 
-    <a href="https://github.com/delmond147/delmond147/graphs/contributors"><img src="https://img.shields.io/github/contributors/delmond147/delmond147?color=orange"></a>
-    <a href="https://github.com/delmond147/delmond147/stargazers"><img src="https://img.shields.io/github/stars/delmond147/delmond147.svg?logo=github"></a>
-    <a href="https://github.com/delmond147/delmond147/network/members"><img src="https://img.shields.io/github/forks/delmond147/delmond147.svg?color=orange&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=delmond147.delmond147" alt="visitors"/>
-
 </p>
 
 <!--   my-header-img -->
