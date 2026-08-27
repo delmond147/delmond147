@@ -9,75 +9,28 @@
 <!--   my-header-img -->
 # Delmond Bongha — AI Engineer / Software Engineer
 
-AI Engineer and Software Engineer focused on building production-grade AI systems, automation, and data-driven products. I combine Python backends, modern JavaScript frontends, and LLM tooling to ship reliable, scalable solutions for trading, marketing, and business operations.
+## 📊 Live Dashboard
 
-**Core stack:** Python • JavaScript/TypeScript • React/Next.js • Node.js • FastAPI • SQL/NoSQL • Docker • Git/GitHub • LLMs & RAG  
-**Location:** Douala, Littoral, CM  
-**Open to:** Full-time roles, contract work, and selective collaborations
-
----
-
-## 📊 Live Activity Dashboard
-
-<!-- Contribution graph (last 12 months) -->
+<!-- Row 1: Contribution graph + isocalendar heatmaps -->
 ![Contribution Graph](https://ghchart.rshah.org/3b82f6/delmond147)
+![Isocalendar](https://metrics.lecoq.io/delmond147?template=classic&isocalendar=1&isocalendar.duration=full&isocalendar.sections=1&isocalendar.sections.limit=0&isocalendar.sections.shadows=1&isocalendar.format=12&isocalendar.style=flat&isocalendar.legend=1&isocalendar.legend.size=12&isocalendar.compact=0&isocalendar.days=14&isocalendar.weeks=1&isocalendar.limit=200&isocalendar.split=0&isocalendar.fill=1&isocalendar.discrete=0&isocalendar.colors=github&isocalendar.colors.from=%233b82f6&isocalendar.colors.to=%231d4ed8)
 
-<!-- GitHub stats card -->
+<!-- Row 2: Stats + Streak + Languages -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delmond147&show_icons=true&hide_border=true&theme=github_dark&count_private=true)
-
-<!-- Top languages (auto-updated) -->
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com?user=delmond147&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delmond147&layout=compact&hide_border=true&theme=github_dark)
 
-<!-- Commit streak -->
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com?user=delmond147&theme=dark&hide_border=true)
+<!-- Row 3: Languages donut / bar chart via metrics -->
+![Languages Chart](https://metrics.lecoq.io/delmond147?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.sections=1&languages.sections.limit=0&languages.sections.shadows=1&languages.threshold=0&languages.indepth=0&languages.recent.categories=1&languages.recent.load=300&languages.recent.days=28&languages.recent.filter=1&languages.recent.filter.type=1&languages.recent.filter.exclude=1&languages.recent.filter.exclude.forks=1&languages.recent.filter.exclude.repos=1&languages.recent.filter.exclude.shadows=1&languages.recent.filter.exclude.sections=1&languages.recent.filter.exclude.threshold=0&languages.recent.filter.exclude.indepth=0&languages.recent.filter.exclude.colors=github&languages.recent.filter.exclude.sections.limit=0&languages.recent.filter.exclude.sections.shadows=1&languages.recent.filter.exclude.threshold=0&languages.recent.filter.exclude.indepth=0&languages.recent.filter.exclude.colors=github&languages.recent.filter.exclude.sections.limit=0&languages.recent.filter.exclude.sections.shadows=1)
+
+<!-- Row 4: Comprehensive metrics dashboard (charts + gauges) -->
+![Comprehensive Metrics](https://metrics.lecoq.io/delmond147?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=1&base.hireable=1&base.skip=1&base.threshold=0&base.discrete=0&base.commits.author=1&base.commits.author.aggregations=1&base.commits.author.days=14&base.commits.author.weeks=1&base.commits.author.limit=200&base.commits.author.split=0&base.commits.author.fill=1&base.commits.author.discrete=0&base.commits.author.colors=github&base.commits.author.colors.from=%233b82f6&base.commits.author.colors.to=%231d4ed8&base.commits.author.legend=1&base.commits.author.legend.size=12&base.commits.author.compact=0&base.commits.author.days=14&base.commits.author.weeks=1&base.commits.author.limit=200&base.commits.author.split=0&base.commits.author.fill=1&base.commits.author.discrete=0&base.commits.author.colors=github&base.commits.author.colors.from=%233b82f6&base.commits.author.colors.to=%231d4ed8&base.commits.author.legend=1&base.commits.author.legend.size=12&base.commits.author.compact=0&languages=1&languages.limit=8&languages.colors=github&languages.sections=1&languages.sections.limit=0&languages.sections.shadows=1&languages.threshold=0&languages.indepth=0&languages.recent.categories=1&languages.recent.load=300&languages.recent.days=28&languages.recent.filter=1&languages.recent.filter.type=1&languages.recent.filter.exclude=1&languages.recent.filter.exclude.forks=1&languages.recent.filter.exclude.repos=1&languages.recent.filter.exclude.shadows=1&languages.recent.filter.exclude.sections=1&languages.recent.filter.exclude.threshold=0&languages.recent.filter.exclude.indepth=0&languages.recent.filter.exclude.colors=github&languages.recent.filter.exclude.sections.limit=0&languages.recent.filter.exclude.sections.shadows=1&languages.recent.filter.exclude.threshold=0&languages.recent.filter.exclude.indepth=0&languages.recent.filter.exclude.colors=github&languages.recent.filter.exclude.sections.limit=0&languages.recent.filter.exclude.sections.shadows=1&isocalendar=1&isocalendar.duration=full&isocalendar.sections=1&isocalendar.sections.limit=0&isocalendar.sections.shadows=1&isocalendar.format=12&isocalendar.style=flat&isocalendar.legend=1&isocalendar.legend.size=12&isocalendar.compact=0&isocalendar.days=14&isocalendar.weeks=1&isocalendar.limit=200&isocalendar.split=0&isocalendar.fill=1&isocalendar.discrete=0&isocalendar.colors=github&isocalendar.colors.from=%233b82f6&isocalendar.colors.to=%231d4ed8)
 
 ---
 
-## 🧠 Professional Summary
+## 🧠 Focus
 
-- **AI Engineering:** Design and deploy LLM-powered features (RAG, agents, evaluation, prompt engineering) and integrate models into production systems via APIs and background jobs. [49][52]  
-- **Backend & APIs:** Build robust services in Python (FastAPI/Flask) and Node.js, with clean architecture, testing, logging, and observability. [48][50]  
-- **Frontend & Full‑Stack:** Create responsive UIs and dashboards with JavaScript/TypeScript and React/Next.js (or Vue/Nuxt when appropriate). [42][43][44][46][47][53][54]  
-- **Data & Systems:** Work with SQL/NoSQL databases, data pipelines, and system design patterns to ensure performance, reliability, and scalability. [48][50]  
-- **DevOps & Delivery:** Use Git/GitHub, CI/CD, containers (Docker), and cloud basics to ship and maintain services reliably. [48][49]  
-- **Collaboration & Impact:** Communicate clearly with stakeholders, write maintainable code, and focus on measurable business outcomes. [48][49]
-
----
-
-## 🤖 RAG (Retrieval‑Augmented Generation) Experience
-
-I build end‑to‑end RAG systems that ground LLM answers in internal docs and scale to production use cases (support, knowledge base, ops assistants). [58][60][68]
-
-- **Stack & pipeline:** Python + FastAPI backends with LangChain/LlamaIndex orchestration; document ingestion (PDF/DOCX/HTML), semantic chunking, embeddings (OpenAI/bge), and vector search with pgvector/Qdrant/Pinecone. [57][58][60][63][68][71]  
-- **Retrieval quality:** Hybrid search (dense + sparse) + reranking (Cohere/BGE) to improve relevance and reduce hallucinations; configurable top‑k and chunk sizes per use case. [59][63][68][71]  
-- **Grounded generation:** Context assembly with source citations and guardrails; answer generation via OpenAI/Claude/Gemini with clear attribution to retrieved passages. [58][62][68]  
-- **Evaluation:** Golden question sets and metrics (Recall@k, MRR, NDCG) plus generation quality (faithfulness, answer relevance, context precision) using RAGAS/DeepEval. [57][62][68][69][71]  
-- **Productionization:** Latency/cost optimization (caching, smaller chunks, tuned top‑k), monitoring for retrieval drift, and clean separation of ingestion vs. query paths for maintainability. [57][62][65][71]
-
-This aligns with 2026 hiring expectations: shipped RAG apps with measurable quality, clear stack choices, and production readiness. [52][61][63][65][67][70]
-
----
-
-## 🛠 Technical Skills
-
-- **Languages:** Python, JavaScript, TypeScript  
-- **Frontend:** React, Next.js, Vue (familiar), HTML/CSS, Tailwind (or similar)  
-- **Backend:** FastAPI, Flask, Node.js, REST/GraphQL APIs  
-- **AI/ML:** LLM integration, RAG pipelines, prompt engineering, basic fine‑tuning concepts, evaluation  
-- **Data:** SQL (PostgreSQL/MySQL), NoSQL (MongoDB), basic data modeling  
-- **DevOps & Tools:** Git/GitHub, CI/CD, Docker, GitHub Actions, basic cloud (AWS/GCP/Azure concepts)  
-- **Practices:** Testing, code review, documentation, system design fundamentals [48][49][52]
-
----
-
-## 🚀 Selected Work
-
-> Pin your strongest repositories on your profile and give each a clear README (problem, solution, stack, how to run, demo). This matters more than listing many projects. [29][34][37]
-
-- **AI Automation:** Python services and agents that automate workflows, reporting, and lead generation.  
-- **RAG Systems:** End‑to‑end retrieval‑augmented generation pipelines with vector search, reranking, and evaluation for internal knowledge bases and support tools.  
-- **Trading Tooling:** Algorithmic trading concepts and indicator logic (e.g., Pine Script v6 for TradingView).  
-- **Full‑Stack Dashboards:** React/Next.js frontends backed by Python/Node APIs for internal tools and analytics.
+AI Engineer / Software Engineer • Python • JavaScript/TypeScript • React/Next.js • FastAPI • LLMs & RAG • Douala, CM
 
 ---
 
@@ -85,6 +38,4 @@ This aligns with 2026 hiring expectations: shipped RAG apps with measurable qual
 
 - **Email:** [techwithdelmond@gmail.com](mailto:techwithdelmond@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/delmondbongha](https://www.linkedin.com/in/delmondbongha/)  
-- **Portfolio / Resume:** [your-site.com](https://your-site.com)  
-
-> For recruiters: I’m open to AI/automation, backend, and full‑stack roles, plus selective contract projects. [30][35][37]
+- **Portfolio / Resume:** [your-site.com](https://your-site.com)
