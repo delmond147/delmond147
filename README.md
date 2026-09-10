@@ -78,12 +78,6 @@ Available for AI Engineering · Backend Engineering · Full-Stack Development ·
 
 <div align="center">
 
-<img
-  src="https://ghchart.rshah.org/2196F3/delmond147"
-  alt="GitHub contribution activity graph"
-  width="100%"
-/>
-
 <br /><br />
 
 <img
