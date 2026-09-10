@@ -78,8 +78,6 @@ Available for AI Engineering · Backend Engineering · Full-Stack Development ·
 
 <div align="center">
 
-<br /><br />
-
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=delmond147&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
   alt="GitHub contribution streak"
