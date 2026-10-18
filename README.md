@@ -11,7 +11,7 @@
 
 # Delmond Bongha
 
-### AI Engineer · Software Engineer · Automation Builder
+### AI Engineer · Software Engineer · AI Integration Specialist · 
 
 <p>
   <a href="mailto:techwithdelmond@gmail.com">
