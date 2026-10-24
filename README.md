@@ -41,9 +41,9 @@
 
 ### What I Build
 
-- Production-focused AI applications and automation systems
+- AI Integration and automation systems
 - Retrieval-Augmented Generation (RAG) assistants
-- Python APIs, backend services, and data workflows
+- Python APIs(FastAPI), backend services, and data workflows
 - Modern web dashboards and internal business tools
 - Algorithmic trading utilities and TradingView tooling
 - Telegram bots, integrations, and operational automations
@@ -92,13 +92,13 @@ Available for AI Engineering · Backend Engineering · Full-Stack Development ·
   width="48%"
 />
 
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=delmond147&layout=donut&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
   alt="Most used programming languages"
   width="41%"
 />
 
-<br /><br />
+<br /><br /> -->
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=delmond147&layout=compact&langs_count=10&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
